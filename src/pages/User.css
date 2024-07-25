@@ -1,0 +1,26 @@
+/* src/pages/User.css */
+.user-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.user-header {
+    color: #ffffff;
+    background-color: #6600ffad;
+    padding: 10px;
+}
+
+.user-details {
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.user-details p {
+    margin: 10px 0;
+}
+
+.user-details strong {
+    color: #333;
+}
