@@ -1,0 +1,54 @@
+/* App.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f4f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #7115fc;
+    margin-top: 20px;
+  }
+  
+  input, select {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    max-width: 400px;
+  }
+  
+  .container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .news-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-left: 5px solid #BF94FF;
+    background-color: #f9fcff;
+  }
+  
+  .news-item h2 {
+    color: #0278ae;
+  }
+  
+  .news-item p {
+    color: #333;
+  }
+  
+  .news-item em {
+    color: #ffffff6d;
+    font-style: normal;
+    font-weight: bold;
+  }
+  
